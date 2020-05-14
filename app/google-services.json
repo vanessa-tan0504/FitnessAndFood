@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453910093279",
+    "firebase_url": "https://fitness-food-1cf01.firebaseio.com",
+    "project_id": "fitness-food-1cf01",
+    "storage_bucket": "fitness-food-1cf01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453910093279:android:1b59da8aabcb196f",
+        "android_client_info": {
+          "package_name": "com.example.FitnessAndFood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453910093279-rionm24i28jmb5gena4igbp4n4cmdpem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.FitnessAndFood",
+            "certificate_hash": "ed6f77e19b99ffe1932585abe3c276e8529421a4"
+          }
+        },
+        {
+          "client_id": "453910093279-1s82ht2n8p88o5aq64i0dq3qt9brm16n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7qCPXz7ysrgvIi22uBUvVbRtCg4-gk8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453910093279-1s82ht2n8p88o5aq64i0dq3qt9brm16n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

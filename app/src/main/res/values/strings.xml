@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Fitness&amp;Food</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="News">News</string>
+    <string name="Diet">Diet</string>
+    <string name="Workout">Workout</string>
+    <string name="Challenge">Challenge</string>
+    <string name="news_tab_1">Fitness</string>
+    <string name="news_tab_2">Diet</string>
+    <string name="diet_tab_1">Standard</string>
+    <string name="diet_tab_2">Vegetarian</string>
+    <string name="profile">Profile</string>
+    <string name="str_profile">this is fragment profile</string>
+
+    <!-- TODO: workout title-->
+    <string name="title_1">ABS WORKOUT</string>
+    <string name="title_2">BUTT WORKOUT</string>
+    <string name="title_3">ARM WORKOUT</string>
+    <string name="title_4">LEG WORKOUT</string>
+
+    <!-- TODO: workout descriptions -->
+    <string name="workout1_1">Get into position by placing your hands flat on the floor, directly below your shoulders.
+\n\nExtend your legs out behind you, with only your toes and balls of your feet touching the floor.
+\n\nLower your chest towards the ground by bending your elbows until your chest is just above the ground or you feel a stretching of your chest and shoulders. Hold for a count of one.
+\n\nPress upwards from your chest and shoulders, straightening your arms as you return to the starting position. Hold for a count of one.</string>
+    <string name="workout1_2">Stand with your feet shoulder-width apart. Start by doing a regular squat, then engage your core and jump up explosively.
+        \n\nWhen you land, lower your body back into the squat position to complete one rep. Land as quietly as possible, which requires control.
+        \n\nDo two to three sets of 10 reps.</string>
+    <string name="workout1_3">Lie flat on your back with your feet flat on the ground, with your knees bent at 90 degrees. Alternatively, you can place your feet up on a bench a few inches apart with your toes turned inwards and touching.
+\n\nPlace your hands lightly on either side of your head. Keep your elbows in  so that they are parallel to your body. Push your back down flat into the floor to isolate your abdominal muscles.
+\n\nGently curl your shoulders forward and up off the floor. Continue to push down into the floor with your lower back. Raise your shoulders about four to six inches only.
+\n\nHold and squeeze your abdominal muscles for a count of one. Return to the start position in a smooth movement.</string>
+    <string name="workout1_4">Lie flat on an exercise mat on the floor keeping your lower back straight with no arching of your spine and with your knees bent and feet flat on the floor.
+\n\nPlace your hands lightly on the sides of your head. Raise your knees until your thighs are at a right angle to the floor and your calves are parallel to the floor.
+\n\nSlowly move your legs in a pedaling action as if you are riding a bicycle.Without pausing, repeat the movement to the other side.Repeat without pausing for the desired number of repetitions to each side.</string>
+
+    <string name="workout2_1">Hold on to a stable surface while doing so, if need be. Maintain a straight back, tighten your core, and keep your chest up.
+\n\nOnce balanced, bend at the knees and slowly drive your hips back. Lower your body to a comfortable level.
+\n\nIdeally, your thighs will be parallel with the ground. Pause at the bottom then contract your quadriceps and glutes to return to the starting position. Keep the knees slightly bent for the entire exercise.</string>
+    <string name="workout2_2">Stand straight – that’s the starting position. Step forward with your left leg and slowly lower your body until your front knee is bent at least 90 degrees, while your rear knee is just off the floor. Keep your torso upright the entire time. Look forward.
+\n\nPause, then push off your left foot off the floor and return to the starting position as quickly as you can.</string>
+    <string name="workout2_3">Lie on your back on a mat with hands under your lower buttocks on either side to support your pelvis.
+\n\nLegs straight out in front of you, ankles together and feet slightly off the floor.
+\n\nKeep your knees straight and raise your legs by flexing the hips until they are completely flexed.</string>
+    <string name="workout2_4">Stand tall against a wall with your head and back touching the wall.
+\n\nPosition your feet so that they are shoulder-width apart and a few inches away from the wall. Rest your arms at your sides.
+\n\nBend your knees and lower into a squat position until your thighs are parallel to the floor and hold the position. Return to starting position by straightening your knees and standing tall again.</string>
+
+    <string name="workout3_1">Get into position by placing your hands flat on the floor, directly below your shoulders.
+\n\nExtend your legs out behind you, with only your toes and balls of your feet touching the floor.
+\n\nLower your chest towards the ground by bending your elbows until your chest is just above the ground or you feel a stretching of your chest and shoulders. Hold for a count of one.
+\n\nPress upwards from your chest and shoulders, straightening your arms as you return to the starting position. Hold for a count of one.</string>
+    <string name="workout3_2">Standing between the bars of a dip station, grip the bars with an overhand grip,keeping your elbows tucked in close to your body.
+\n\nAllow your body weigh to hang so it is being supported by your arms and shoulders. Keep your hips straight.
+\n\nPush down through your palms with your arms, lifting your body up until your arms are almost straight. (Do not lock your elbows)</string>
+    <string name="workout3_3">Place your hands flat on the floor, shoulder width apart. Extend your torso and legs fully behind you with only your toes and balls of your feet touching the floor.
+\n\nYour body should be in a straight line, with your weight supported on your hands and toes only.
+        \n\nYour other leg should remain fully extended. This is the start position.</string>
+    <string name="workout3_4">Start in the plank position with your elbows shoulder-width apart.
+\n\nPress yourself up from the floor one arm at a time into a push-up, maintaining your body in a straight line.
+\n\nSlowly return to the starting plank position the same way, one arm at a time. Repeat the movement alternating sides.</string>
+
+    <string name="workout4_1">Try to lift your knees up to hip level but keep the core tight to support your back.
+\n\nFor a more advanced move, hold your hands straight at hip level and try to touch the knees to your hands as you lift them.
+\n\nBring the knees towards your hands instead of reaching the hands to the knees!</string>
+    <string name="workout4_2">Place a bench in front of you. Brace your core and keep your gaze straight ahead.
+\n\nBring your right knee up and step up on to the bench. Placing all of the effort in your right leg, bring your body up into a standing position on the bench.
+\n\nSlowly lower yourself to the starting position and switch legs.</string>
+    <string name="workout4_3">Stand with your feet shoulder-width apart. Start by doing a regular squat, then engage your core and jump up explosively.
+\n\nWhen you land, lower your body back into the squat position to complete one rep. Land as quietly as possible, which requires control.
+\n\nDo two to three sets of 10 reps.</string>
+    <string name="workout4_4">Stand tall against a wall with your head and back touching the wall.
+\n\nPosition your feet so that they are shoulder-width apart and a few inches away from the wall. Rest your arms at your sides.
+\n\nBend your knees and lower into a squat position until your thighs are parallel to the floor and hold the position. Return to starting position by straightening your knees and standing tall again.</string>
+
+    <!-- TODO: challenge card descriptions -->
+    <string name="challengeAdv1_1">Stand with your feet shoulder-width apart. Start by doing a regular squat, then engage your core and jump up explosively.
+        \n\nWhen you land, lower your body back into the squat position to complete one rep. Land as quietly as possible, which requires control.
+        \n\nDo two to three sets of 10 reps.</string>
+    <string name="challengeAdv1_2">Get into position by placing your hands flat on the floor, directly below your shoulders.
+\n\nExtend your legs out behind you, with only your toes and balls of your feet touching the floor.
+\n\nLower your chest towards the ground by bending your elbows until your chest is just above the ground or you feel a stretching of your chest and shoulders. Hold for a count of one.
+\n\nPress upwards from your chest and shoulders, straightening your arms as you return to the starting position. Hold for a count of one.</string>
+    <string name="challengeAdv1_3">Lie flat on an exercise mat on the floor keeping your lower back straight with no arching of your spine and with your knees bent and feet flat on the floor.
+\n\nPlace your hands lightly on the sides of your head. Raise your knees until your thighs are at a right angle to the floor and your calves are parallel to the floor.
+\n\nSlowly move your legs in a pedaling action as if you are riding a bicycle.Without pausing, repeat the movement to the other side.Repeat without pausing for the desired number of repetitions to each side.</string>
+    <string name="challengeAdv1_4">Stand tall against a wall with your head and back touching the wall.
+\n\nPosition your feet so that they are shoulder-width apart and a few inches away from the wall. Rest your arms at your sides.
+\n\nBend your knees and lower into a squat position until your thighs are parallel to the floor and hold the position. Return to starting position by straightening your knees and standing tall again.
+</string>
+    <string name="challengeAdv1_5">Place your hands flat on the floor, shoulder width apart. Extend your torso and legs fully behind you with only your toes and balls of your feet touching the floor.
+\n\nYour body should be in a straight line, with your weight supported on your hands and toes only.
+        \n\nYour other leg should remain fully extended. This is the start position.</string>
+    <string name="challengeAdv1_6">Start in the plank position with your elbows shoulder-width apart.
+\n\nPress yourself up from the floor one arm at a time into a push-up, maintaining your body in a straight line.
+\n\nSlowly return to the starting plank position the same way, one arm at a time. Repeat the movement alternating sides.</string>
+    <string name="challengeAdv1_7">Lie on your side with legs stretched out and place your elbow on the floor directly underneath your shoulder with palm grasping the floor.
+\n\nPile your feet on top of each other and lift your body up to neutral.
+\n\nDip your hips down toward the floor and lift them higher than neutral. Complete at least 4 dips on each side.</string>
+    <string name="challengeAdv1_8">Standing between the bars of a dip station, grip the bars with an overhand grip,keeping your elbows tucked in close to your body.
+\n\nAllow your body weigh to hang so it is being supported by your arms and shoulders. Keep your hips straight.
+\n\nPush down through your palms with your arms, lifting your body up until your arms are almost straight. (Do not lock your elbows)</string>
+    <string name="challengeAdv1_9">Place your hands flat on the floor, shoulder width apart. Extend your torso and legs fully behind you with only your toes and balls of your feet touching the floor.
+\n\nYour body should be in a straight line, with your weight supported on your hands and toes only.
+        \n\nYour other leg should remain fully extended. This is the start position.</string>
+
+    <string name="challengeAdv2_1">Stand tall against a wall with your head and back touching the wall.
+\n\nPosition your feet so that they are shoulder-width apart and a few inches away from the wall. Rest your arms at your sides.
+\n\nBend your knees and lower into a squat position until your thighs are parallel to the floor and hold the position. Return to starting position by straightening your knees and standing tall again.</string>
+    <string name="challengeAdv2_2">Lie on your back on a mat with hands under your lower buttocks on either side to support your pelvis.
+\n\nLegs straight out in front of you, ankles together and feet slightly off the floor.
+\n\nKeep your knees straight and raise your legs by flexing the hips until they are completely flexed.</string>
+    <string name="challengeAdv2_3">Stand straight – that’s the starting position. Step forward with your left leg and slowly lower your body until your front knee is bent at least 90 degrees, while your rear knee is just off the floor. Keep your torso upright the entire time. Look forward.
+\n\nPause, then push off your left foot off the floor and return to the starting position as quickly as you can.</string>
+    <string name="challengeAdv2_4">Place a bench in front of you. Brace your core and keep your gaze straight ahead.
+\n\nBring your right knee up and step up on to the bench. Placing all of the effort in your right leg, bring your body up into a standing position on the bench.
+\n\nSlowly lower yourself to the starting position and switch legs.</string>
+    <string name="challengeAdv2_5">Stand with your feet shoulder-width apart. Start by doing a regular squat, then engage your core and jump up explosively.
+\n\nWhen you land, lower your body back into the squat position to complete one rep. Land as quietly as possible, which requires control.
+\n\nDo two to three sets of 10 reps.</string>
+    <string name="challengeAdv2_6">LLie on your side with legs stretched out and place your elbow on the floor directly underneath your shoulder with palm grasping the floor.
+\n\nPile your feet on top of each other and lift your body up to neutral.
+\n\nDip your hips down toward the floor and lift them higher than neutral. Complete at least 4 dips on each side.</string>
+    <string name="challengeAdv2_7">Stand tall against a wall with your head and back touching the wall.
+\n\nPosition your feet so that they are shoulder-width apart and a few inches away from the wall. Rest your arms at your sides.
+\n\nBend your knees and lower into a squat position until your thighs are parallel to the floor and hold the position.</string>
+    <string name="challengeAdv2_8">Stand straight – that’s the starting position. Step forward with your left leg and slowly lower your body until your front knee is bent at least 90 degrees, while your rear knee is just off the floor. Keep your torso upright the entire time. Look forward.
+\n\nPause, then push off your left foot off the floor and return to the starting position as quickly as you can.</string>
+    <string name="challengeAdv2_9">Hold on to a stable surface while doing so, if need be. Maintain a straight back, tighten your core, and keep your chest up.
+\n\nOnce balanced, bend at the knees and slowly drive your hips back. Lower your body to a comfortable level.
+\n\nIdeally, your thighs will be parallel with the ground. Pause at the bottom then contract your quadriceps and glutes to return to the starting position. Keep the knees slightly bent for the entire exercise.</string>
+
+    <string name="challengeAdv3_1">Get into position by placing your hands flat on the floor, directly below your shoulders.
+\n\nExtend your legs out behind you, with only your toes and balls of your feet touching the floor.
+\n\nLower your chest towards the ground by bending your elbows until your chest is just above the ground or you feel a stretching of your chest and shoulders. Hold for a count of one.
+\n\nPress upwards from your chest and shoulders, straightening your arms as you return to the starting position. Hold for a count of one.</string>
+    <string name="challengeAdv3_2">Stand straight – that’s the starting position. Step forward with your left leg and slowly lower your body until your front knee is bent at least 90 degrees, while your rear knee is just off the floor. Keep your torso upright the entire time. Look forward.
+\n\nPause, then push off your left foot off the floor and return to the starting position as quickly as you can.</string>
+    <string name="challengeAdv3_3">Start in the plank position with your elbows shoulder-width apart.
+\n\nPress yourself up from the floor one arm at a time into a push-up, maintaining your body in a straight line.
+\n\nSlowly return to the starting plank position the same way, one arm at a time. Repeat the movement alternating sides.</string>
+    <string name="challengeAdv3_4">Stand with your feet together, arms fully extended with your hands by your sides. This is the start position.
+\n\nBend your knees slightly then straighten and push through the balls of your feet while straightening your knees to jump up spreading your legs to wider than hip width apart.
+\n\nAs you do so, raise both arms out and up in a smooth arc until your hands meet above your head.</string>
+    <string name="challengeAdv3_5">Stand tall against a wall with your head and back touching the wall.
+\n\nPosition your feet so that they are shoulder-width apart and a few inches away from the wall. Rest your arms at your sides.
+\n\nBend your knees and lower into a squat position until your thighs are parallel to the floor and hold the position.</string>
+    <string name="challengeAdv3_6">Standing between the bars of a dip station, grip the bars with an overhand grip,keeping your elbows tucked in close to your body.
+\n\nAllow your body weigh to hang so it is being supported by your arms and shoulders. Keep your hips straight.
+\n\nPush down through your palms with your arms, lifting your body up until your arms are almost straight. (Do not lock your elbows)</string>
+    <string name="challengeAdv3_7">Stand with your feet together, arms fully extended with your hands by your sides. This is the start position.
+\n\nBend your knees slightly then straighten and push through the balls of your feet while straightening your knees to jump up spreading your legs to wider than hip width apart.</string>
+    <string name="challengeAdv3_8">Stand straight with your feet shoulder width apart and hands by your sides. This is the start position.
+\n\nIn one smooth motion, squat down and place your hands palms down on the floor in front of your feet.
+\n\nLean forward, so your weight is on your hands, at the same time jumping your legs out behind you until they are fully extended.</string>
+    <string name="challengeAdv3_9">Stand tall against a wall with your head and back touching the wall.
+\n\nPosition your feet so that they are shoulder-width apart and a few inches away from the wall. Rest your arms at your sides.
+\n\nBend your knees and lower into a squat position until your thighs are parallel to the floor and hold the position.</string>
+
+    <!-- TODO: workout card descriptions -->
+    <string name="text_1">Step-by-step guide to achieve\ntoned abs </string>
+    <string name="text_2">Step-by-step guide to squeeze\ninner/outer thighs </string>
+    <string name="text_3">Step-by-step guide to avoid\nflabby arms </string>
+    <string name="text_4">Step-by-step guide to obtain\ntoned legs muscle</string>
+
+    <string name="title_activity_inner_diet">InnerDiet</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="title_activity_finish_workout">FinishWorkout</string>
+
+</resources>

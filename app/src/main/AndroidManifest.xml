@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.FitnessAndFood">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_logo1"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_round"
+        android:supportsRtl="true"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ProfilePrepare"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Workout1"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Workout2"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Workout3"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Workout4"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ChallengeEasy1"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ChallengeEasy2"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ChallengeEasy3"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ChallengeInter1"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ChallengeInter2"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ChallengeInter3"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ChallengeAdv1"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ChallengeAdv2"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".ChallengeAdv3"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".LoginActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".SignupActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".DietTabView"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".DietTabView2"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".DietTabView3"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".DietTabView4"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".DietTabView5"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".DietTabView6"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".DietTabView7"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Startworkout1"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Startworkout2"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Startworkout3"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Startworkout4"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Startchallenge1"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Startchallenge2"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Startchallenge3"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Startchallenge4"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Startchallenge5"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Startchallenge6"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Startchallenge7"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Startchallenge8"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".Startchallenge9"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
